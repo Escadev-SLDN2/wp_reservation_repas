@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : mar. 24 mars 2020 à 10:27
+-- Généré le : mar. 24 mars 2020 à 11:19
 -- Version du serveur :  10.1.44-MariaDB-0ubuntu0.18.04.1
 -- Version de PHP : 7.2.24-0ubuntu0.18.04.3
 
@@ -21,6 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Base de données : `wp_reservation_repas`
 --
+CREATE DATABASE IF NOT EXISTS `wp_reservation_repas` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `wp_reservation_repas`;
 
 -- --------------------------------------------------------
 
