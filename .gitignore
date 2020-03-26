@@ -1,4 +1,4 @@
 wp-config.php
-wp-content/upgrade
-wp-content/uploads
+wp-content/*
+!wp-content/themes/head-blog-child
 .htaccess
