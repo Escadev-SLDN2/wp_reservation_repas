@@ -1,5 +1,4 @@
 wp-config.php
 wp-content/*
-!wp-content/plugins/
-!wp-content/themes/
+!wp-content/themes/head-blog-child
 .htaccess
